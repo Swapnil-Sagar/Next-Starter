@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <div>
         <h1 className={styles.title}>Home</h1>
-        <p lassName={styles.text}>Lorem ipsum wakanda wakanda hilele</p>
+        <p className={styles.text}>Lorem ipsum wakanda wakanda hilele</p>
       </div>
     </>
   );
