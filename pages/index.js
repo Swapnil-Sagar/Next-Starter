@@ -1,3 +1,6 @@
+//Initial page: index page
+//Head: used to store metadata
+
 import Head from "next/head";
 import Image from "next/image";
 import Footer from "../comps/Footer";
